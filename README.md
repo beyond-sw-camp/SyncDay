@@ -252,101 +252,34 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 - <details>
 
-    <summary>회원</summary>
+    <summary>로그인</summary>
 
-  ![테스트](./docs/gif/board/자유게시글목록.gif)
+  ![로그인](https://github.com/user-attachments/assets/d938ed73-804c-4caf-8747-f97045c93ef1)
+
+  </details>
+
+- <details>
+
+    <summary>로그아웃</summary>
+
+  ![로그아웃](https://github.com/user-attachments/assets/d8145e17-e0fe-43a5-ae2f-fdfedfc1fa6b)
+
+  </details>
+  
+- <details>
+
+    <summary>마이페이지</summary>
+
+  ![마이페이지](https://github.com/user-attachments/assets/8561dac1-5544-4933-a5b6-44d83a7198c2)
 
   </details>
 
 - <details>
 
-    <summary>자유게시글 검색</summary>
+    <summary>비밀번호 변경</summary>
 
-  ![테스트](./docs/gif/board/자유게시글검색.gif)
+  ![비밀번호 변경](https://github.com/user-attachments/assets/3f47ee4f-a56c-4317-9e09-12f13f1606c9)
 
-  </details>
-
-- <details>
-    <summary>자유게시글 상세 조회</summary>
-   ![테스트](./docs/gif/board/자유게시글상세조회.gif)
-  </details>
-
-- <details>
-    <summary>자유게시글 작성</summary>
-
-  ![테스트](./docs/gif/board/자유게시글작성.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 수정</summary>
-
-  ![테스트](./docs/gif/board/자유게시글수정.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 삭제</summary>
-
-  ![테스트](./docs/gif/board/자유게시글삭제.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 댓글 작성</summary>
-
-  ![테스트](./docs/gif/board/자유게시글댓글작성.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 댓글 수정</summary>
-
-  ![테스트](./docs/gif/board/자유게시글댓글수정.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 댓글 삭제</summary>
-
-  ![테스트](./docs/gif/board/자유게시글댓글삭제.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 대댓글 작성</summary>
-
-  ![테스트](./docs/gif/board/자유게시글대댓글작성.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 대댓글 수정</summary>
-
-  ![테스트](./docs/gif/board/자유게시글대댓글수정.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 대댓글 삭제</summary>
-
-  ![테스트](./docs/gif/board/자유게시글대댓글삭제.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 백엔드 </summary>
-
-  ![테스트](./docs/gif/board/자유백엔드.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 댓글 백엔드</summary>
-
-  ![테스트](./docs/gif/board/자유댓글백엔드.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 대댓글 백엔드</summary>
-
-  ![테스트](./docs/gif/board/자유대댓글백엔드.gif)
-  </details>
-
-- <details>
-   <summary>자유게시글 좋아요 백엔드</summary>
-
-  ![테스트](./docs/gif/board/자유좋아요백엔드.gif)
   </details>
 
 </details>
