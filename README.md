@@ -313,7 +313,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 ### 8.3 팀/비서
 <details>
-  ![메인페이지팀비서](https://github.com/user-attachments/assets/7793c06d-f583-43c8-a6da-181d07da98a3)
+  ![메인페이지팀비서](./readme/메인페이지팀비서.gif)
 
 </details>
  
