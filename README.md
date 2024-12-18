@@ -311,98 +311,12 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 ---
 
-### 8.3 팀
+### 8.3 팀/비서
 <details>
-  <summary>가이드북 메인(입문 작품 추천 / 뮤지컬 용어 안내 / 뮤지컬 관람 매너)</summary>
+  ![메인페이지팀비서](https://github.com/user-attachments/assets/7793c06d-f583-43c8-a6da-181d07da98a3)
 
-- <details>
-   <summary>입문 작품 추천 백엔드</summary>
-
-   <details>
-      <summary>입문 작품 추천 전체 조회</summary>
-
-  ![테스트](./docs/img/guidebook_img/작품추천목록.png)
-
-   </details>
-
-   <details>
-     <summary>입문 작품 추천 상세 조회</summary>
-
-  ![테스트](./docs/img/guidebook_img/작품추천상세조회.png)
-
-   </details>
-
-   <details>
-     <summary>입문 작품 추천 작성</summary>
-
-  ![테스트](./docs/img/guidebook_img/작품추천작성.png)
-
-   </details>
-
-   <details>
-     <summary>입문 작품 추천 수정</summary>
-
-  ![테스트](./docs/img/guidebook_img/작품추천수정.png)
-
-   </details>
-
-  </details>
-
-- <details>
-      <summary>뮤지컬 용어 안내 백엔드</summary>
-      <details>
-        <summary>뮤지컬 용어 안내 전체 조회</summary>
-
-  ![테스트](./docs/img/guidebook_img/용어목록.png)
-   </details>
-
-   <details>
-     <summary>뮤지컬 용어 안내 상세 조회</summary>
-
-  ![테스트](./docs/img/guidebook_img/용어상세.png)
-   </details>
-   <details>
-     <summary>뮤지컬 용어 안내 작성</summary>
-
-  ![테스트](./docs/img/guidebook_img/용어작성.png)
-   </details>
-   <details>
-     <summary>뮤지컬 용어 안내 수정</summary>
-
-  ![테스트](./docs/img/guidebook_img/용어수정.png)
-   </details>
-
-- <details>
-   <summary>관람 매너 안내 백엔드</summary>
-   <details>
-     <summary>관람 매너 안내 전체 조회</summary>
-
-  ![테스트](docs/img/guidebook_img/매너목록.png)
-   </details>
-   <details>
-     <summary>관람 매너 안내 상세 조회</summary>
-
-  ![테스트](./docs/img/guidebook_img/매너상세조회.png)
-   </details>
-   <details>
-     <summary>관람 매너 안내 작성</summary>
-
-  ![테스트](./docs/img/guidebook_img/매너작성.png)
-   </details>
-   <details>
-     <summary>관람 매너 안내 수정</summary>
-
-  ![테스트](./docs/img/guidebook_img/매너수정.png)
-   </details>
-   </details>
-   <details>
-   <summary>가이드북 프론트</summary>
-
-![테스트](./docs/gif/guidebook/가이드북.gif)
-
-   </details>
 </details>
-</details>
+ 
 
 ---
 ### 8.4 프로젝트
@@ -493,33 +407,6 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 ---
 
-### 8.8 비서
-<details>
-  <summary>뮤지컬 정보</summary>
-   <details>
-     <summary>뮤지컬 조회</summary>
-     <img src="./docs/gif/musicalInfo/musical-select.gif" alt="테스트">
-
-   </details>
-
-   <details>
-     <summary>뮤지컬 조회 백앤드</summary>
-     <img src="./docs/gif/musicalInfo/back-find.gif" alt="테스트">
-
-   </details>
-
-   <details>
-     <summary>뮤지컬 검색</summary>
-     <img src="./docs/gif/musicalInfo/musical-search.gif" alt="테스트">
-
-   </details>
-
-   <details>
-     <summary>뮤지컬 검색 백엔드</summary>
-     <img src="./docs/gif/musicalInfo/back-titlesearch.gif" alt="테스트">
-
-   </details>
-</details>
 
 ---
 
