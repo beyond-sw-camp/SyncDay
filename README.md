@@ -328,7 +328,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 - <details>
 
     <summary>프로젝트페이지</summary>
-
+readme/화면 캡처 2024-12-15 164530.png
   ![테스트](./readme/화면 캡처 2024-12-15 164530.png)
 
   </details>
