@@ -268,7 +268,8 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 - <details>
     <summary>자유게시글 상세 조회</summary>
-   ![테스트](./docs/gif/board/자유게시글상세조회.gif)
+  
+  ![테스트](./docs/gif/board/자유게시글작성.gif)
   </details>
 
 - <details>
