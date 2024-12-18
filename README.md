@@ -314,7 +314,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 ### 8.3 팀/비서
 <details>
   
-  ![팀비서](./readme/team.gif)
+  ![팀비서](readme/team.gif)
   
 </details>
  
