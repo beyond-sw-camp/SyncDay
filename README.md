@@ -525,10 +525,14 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 
 
-## 🍀9. CI/CD 테스트 결과
+## 🍀9. CI/CD 결과
 <details>
    <summary>결과</summary>
+  백엔드
+   <img width="1440" alt="image" src="https://github.com/user-attachments/assets/f802dbfd-91da-4034-9984-d6615309516f" />
 
+  프론트
+  <img width="1440" alt="image" src="https://github.com/user-attachments/assets/07e1c376-6cbe-4374-9102-d6b873849c23" />
 
 
 </details>
